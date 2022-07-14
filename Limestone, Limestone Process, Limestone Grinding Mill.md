@@ -3,8 +3,7 @@
 Limestone, also known as chalk, aragonite ,white marble, is mainly composed of CaCO3. Its Moh's hardness is around 3, soft and brittle. Lime can be used widely. Processed directly, it can be building aggregate; Calcined, quicklime; Powdered, the industrial raw material. Now, recycling limestone tailings to produce powder is a way turning waste into treasure.
 Fineness|Applications|Recommended Equipment
 ---|---|---
-40-150meshes|As chemical products, it can be used in construction, wall coating, chemical filler, paper-making material and sealants.|MTM Trapezium Grinder
-MTW Milling Machine
+40-150meshes|As chemical products, it can be used in construction, wall coating, chemical filler, paper-making material and sealants.|MTM Trapezium Grinder MTW Milling Machine
 150-200meshes|It has low Calcium and can be used in asphalt mixing plant on expressway.|
 250-325meshes|Desulfurization. Two standards. one is 250meshes D90; the other 325meshes D90. High Calcium content with over 50% CaO and over 90% CaCO3.|LM Vertical Mill
 ## Limestone Grinding Technology
