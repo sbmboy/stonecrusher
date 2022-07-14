@@ -10,6 +10,7 @@ Spherical Coke|Around 200meshes|Used as the combustion materials of ceramic and 
 2.**Grinding Stage:**The small qualified pieces would be evenly sent, by conveyor and feeder, into the grinding cavity where the materials would be ground into powder.
 3.**Grading Stage:**The ground material with air flow would be graded by powder separator. After that, the unqualified powder would be sent back to the grinding cavity for another grind.
 4.**Powder Collecting Stage:** With air flow, powder meeting the fineness standard enters into the powder collecting system along the pipe. The finished powder products are sent to finished product warehouse by conveyor and packed by powder filling tanker and automatic pack machine.
+
 ![Petroleum Coke Processing Technology](https://static.sbmchina.com/images/business/mill/mtw-liuchengtu.jpg)
 ## Other Info
 **WhatsApp:**  [+8613621919955](https://whatsapp.shibangsoft.com/WhatsApp.php)
