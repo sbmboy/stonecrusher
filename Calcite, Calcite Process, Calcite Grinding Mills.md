@@ -8,13 +8,10 @@ Below 325meshes|325meshes of calcite is commonly used to produce putty powder. I
 Above 800meshes|Used to produce rubber, plastic, cable and PVC (whiteness above 94)|SCM,LUM
 Above1250meshes|Can be raw materials of PVC, PE, paint, coating, bottom &surface coating of papermaking and ink, etc..|SCM,LUM
 ## Calcite Processing Technology
-1. **Crushing Stage:** Big blocks would be crushed into materials within 15mm-50mm--- the feeding size of grinders.
-
-2. **Grinding Stage:** The small qualified pieces would be evenly sent, by conveyor and feeder, into the grinding cavity where the materials would be ground into powder.
-
-3. **Grading Stage:** The ground material with air flow would be graded by powder separator. After that, the unqualified powder would be sent back to the grinding cavity for another grind.
-
-4. **Powder Collecting Stage:** With air flow, powder meeting the fineness standard enters into the powder collecting system along the pipe. The finished powder products are sent to finished product warehouse by conveyor and packed by powder filling tanker and automatic pack machine.
+1.**Crushing Stage:**Big blocks would be crushed into materials within 15mm-50mm--- the feeding size of grinders.
+2.**Grinding Stage:**The small qualified pieces would be evenly sent, by conveyor and feeder, into the grinding cavity where the materials would be ground into powder.
+3.**Grading Stage:**The ground material with air flow would be graded by powder separator. After that, the unqualified powder would be sent back to the grinding cavity for another grind.
+4.**Powder Collecting Stage:** With air flow, powder meeting the fineness standard enters into the powder collecting system along the pipe. The finished powder products are sent to finished product warehouse by conveyor and packed by powder filling tanker and automatic pack machine.
 
 ![Calcite Processing](https://static.sbmchina.com/images/business/mill/mtw-liuchengtu.jpg)
 ## Other Info
