@@ -1,4 +1,4 @@
-# Stone Crusher
+# Shibang Crusher(SBM)
 
 As one of leaders of global crushing and grinding industry, SBM is always committed to innovation & excellence. Grasping strong production capability, advanced research strength and excellent service, SBM create the value and bring values to customers.
 
